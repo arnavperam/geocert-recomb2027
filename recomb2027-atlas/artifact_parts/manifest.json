@@ -1,0 +1,99 @@
+{
+  "archive": "GeoCert_RECOMB_1.1.1_Source.zip",
+  "root": "recomb2027-atlas",
+  "distribution_version": "1.1.1",
+  "sha256": "a14c8986551a4c568a822991981198db88bb583b22b23329a5ed09c844904f03",
+  "size": 74385746,
+  "parts": [
+    {
+      "name": "part000",
+      "sha256": "6ce715a5683f64088a5c9b5abac4e857fb4a1c5a9200b09f536eba072c9a352a",
+      "size": 4194304
+    },
+    {
+      "name": "part001",
+      "sha256": "c513457e0e1edd319b48d29f85e4c4b0919db630fbf1fb6fe104fb0b37e51314",
+      "size": 4194304
+    },
+    {
+      "name": "part002",
+      "sha256": "554e63cd0b7141500c1725b231048e2fd4f482f0087be1fa5f4e378c917196a4",
+      "size": 4194304
+    },
+    {
+      "name": "part003",
+      "sha256": "5381c1b741c3244542c487ffdd460fc2b4d29eceefe636245a8c90cc93f6b375",
+      "size": 4194304
+    },
+    {
+      "name": "part004",
+      "sha256": "69d808cd7f02230f27bba0b9adbac710ef4ecfb4481913e9906b347186b4f51c",
+      "size": 4194304
+    },
+    {
+      "name": "part005",
+      "sha256": "66d271c779d29a05067c143fa5f94e6fb71c46151cf4f2170ae0c1e1ea476ed5",
+      "size": 4194304
+    },
+    {
+      "name": "part006",
+      "sha256": "91f82eb55bfdd3bdddc1713cf779d49115ca83f220be132da5992d9b7ee2b4b9",
+      "size": 4194304
+    },
+    {
+      "name": "part007",
+      "sha256": "e070e099a973bf3fc721602fc800e94b800eb0f80834b90c08c60794f45d6440",
+      "size": 4194304
+    },
+    {
+      "name": "part008",
+      "sha256": "15133887a760854598a529f0d679ae4369f2464dc431c438542e8bff8d5e56e7",
+      "size": 4194304
+    },
+    {
+      "name": "part009",
+      "sha256": "7d53198fd5c1c859fa32116177bb375cad9ebe99727af2f7babff786ad340885",
+      "size": 4194304
+    },
+    {
+      "name": "part010",
+      "sha256": "bd5c3c7398d74672d8ac162c562002f736c040e3e8221b7252bf72041a80871f",
+      "size": 4194304
+    },
+    {
+      "name": "part011",
+      "sha256": "ce77eb3b820eb9f9b6df27520bec8290a2fd54ec45b41fba25b21d7ef0909aaf",
+      "size": 4194304
+    },
+    {
+      "name": "part012",
+      "sha256": "87b5f21b5db4b397cf98ad79226ae6a448f8e492669219dcb3c5ed62f1e31125",
+      "size": 4194304
+    },
+    {
+      "name": "part013",
+      "sha256": "7b5ce2486885a00e5b43e2dc686ade0dac5a15568475ac002b3bd27ab6a49bd2",
+      "size": 4194304
+    },
+    {
+      "name": "part014",
+      "sha256": "2b1970b1724ce82d364a4b4efbc29f8eceec39b6c6e7ed3dcd5eefda7e2f1c39",
+      "size": 4194304
+    },
+    {
+      "name": "part015",
+      "sha256": "4222192f2fedf7449b0db3d5ce28c2466b54809c68f091d1ad9943eef3b764b7",
+      "size": 4194304
+    },
+    {
+      "name": "part016",
+      "sha256": "15f8be2fafe52732b5dee4167a7193d96eafdee0640329abda576cca354f2d3e",
+      "size": 4194304
+    },
+    {
+      "name": "part017",
+      "sha256": "d4271916ae9734dc0e87fb3a8133d3e533532175d8f532c80875a1bdd7702084",
+      "size": 3082578
+    }
+  ]
+}

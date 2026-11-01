@@ -1,0 +1,24 @@
+{
+  "inputs_sha256": {
+    "external/data/atlas_breast_01.json": "714beaabf063e94ddca850744a02f73cd54b08474accce6a40bd977f036f9f7a",
+    "external/results/cell_spectra.json": "5c35da438a90f5cd5ac6b948de68e4d4e68ceab0af35e3f5ec1e24c84668964a",
+    "external/results/patch_spectra.json": "1cf678cc7d6d4b8659a0ed74f694d58d4d268c6526eb7e1a9169ad9edd5df9ab",
+    "external/results/additive_local_spectra.json": "be71e772e5021a4e43b66692e8ee9453c0aa1e9dacd8211e681948f699a640de",
+    "external/data/source_crops/breast_01/masks.npz": "f90ad645f5495d49b00acad2f041098db92967519a753011739536279faceb60",
+    "external/results/count_baseline_comparison.csv": "58e850cc86dbed2b59330103c1956ee451a8351bc0dc44279ff47724475f7717",
+    "results/reach/summary.json": "f20d7f396c042ff214d6dec8815f30736cc1c3fb25e3cb749b69b43e72832829",
+    "results/reach/budget_summary.json": "d18b59110de42cc7688a20d790c7b75093ce351acc54f7fe935ebadb20f607f2",
+    "results/chain_benchmark_summary.json": "0076df6d85a5fc5b6f5980a7a1a9078fed9b4ca122495bf055b44e68e9d1d851",
+    "extensions/external_validation/results/donor_summary.json": "d5704060658a1c7377fdfc56d96cfe278a92db055e1c92bfa614477d1b421661",
+    "extensions/external_validation/results/region_summary.json": "983820dff3c59e50c67bc5a036610606104ff0e748aa996e8efe1eb56d2abbf5",
+    "extensions/external_validation/results/budget_summary.json": "edfb1484298b291407c7ea64004387dc3ffda0e23a291da24c7036104bf095f0",
+    "extensions/external_validation/results/proseg_summary.json": "8ec2e0aace2c398ec71d5bb3fa7113d6ccd4b291c807f42412fdf1bf323c8fda",
+    "extensions/atlas_union/results/reference_summary.json": "bb221f4c8cb3b59ffb2e30940d7ad655b0b8c65e6047150be7d0b08f7f6336fa",
+    "data/atlas_roi_01.json": "bc2ca46a3712161146108e9d65735dcab7c58fe9e2c470c39a77d99156667bf0",
+    "data/source_crops/roi_01/masks.npz": "a2d88f46d0b120f843d7caca1389806ca7dbc2bb7e755c75095baf28b3df169b"
+  },
+  "operation": "Extract saved results and render; no new experimental runs",
+  "ldhb_saved_budget_rows_matched": 8,
+  "source_repository": "https://github.com/arnavperam/geocert-recomb2027",
+  "distribution_version": "1.1.1"
+}

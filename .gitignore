@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+atlas-replay/
+run/
+GeoCert_RECOMB_*_Source.zip

@@ -1,0 +1,31 @@
+{
+  "scope": "Complete scalar-atlas composition and source-feasible adapter contract",
+  "target_change_cost": "9/16",
+  "unscored_patch_minimum_area": "1/16",
+  "complete_minima": {
+    "0": "5/8",
+    "1": "1/16"
+  },
+  "budget_3_5_exact_interval": [
+    1,
+    1
+  ],
+  "budget_3_5_if_patch_dropped": [
+    0,
+    1
+  ],
+  "tested_budgets": [
+    "0",
+    "1/32",
+    "1/16",
+    "3/5",
+    "5/8"
+  ],
+  "zero_target_positive_area": true,
+  "infeasible_unscored_patch": true,
+  "missing_or_incomplete_patch_rejected": true,
+  "zero_cost_source_case": true,
+  "complete_attaining_witnesses": true,
+  "tissue_adapter_rejects_inadmissible_source": true,
+  "failures": 0
+}

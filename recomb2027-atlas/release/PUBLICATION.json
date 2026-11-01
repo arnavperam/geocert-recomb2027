@@ -1,0 +1,27 @@
+{
+  "candidate": "GeoCert RECOMB 2027",
+  "base_package_version": "1.1.1",
+  "scientific_source_url": "https://github.com/arnavperam/geocert-recomb2027",
+  "base_archive_sha256": "a14c8986551a4c568a822991981198db88bb583b22b23329a5ed09c844904f03",
+  "document_sha256": {
+    "main.pdf": "5001b5997b55448e58b3864cdd1ad1260a94abb5940bf60a71f3cce3cfdae66d",
+    "main.tex": "247538201a1b9ec406959ad7efeff7612b5467cac9fcbfdea294f570c7ba20cd",
+    "supplement.pdf": "704dfae5bbe308ca925ff94f57d57d39c69f3e98ac5a7c2e46a1a6a306fcc4d1",
+    "supplement.tex": "1a97ebecf3d0da3219daa7202444da8b42143567e76890cad82749176cfc5c16"
+  },
+  "body_pages": 10,
+  "supplement_pages": 28,
+  "abstract_words": 271,
+  "abstract_sha256": "b315e833245d6bca57435957d347908445b5307cd7c99996233402267b0c4747",
+  "extension_records_sha256": {
+    "extensions/atlas_union/results/summary.json": "62d8d76066bf20a62de7d42f52baf8573d472cc862ffc38336219c763a3b7484",
+    "extensions/atlas_union/results/independent_verification.json": "a7c230099ec2d9beed89c24bdb7bea83d4f6665e1752c4ee53b6a3686c056b6d",
+    "extensions/scaling/artifact_manifest.json": "b44b8a6de3ba633cdbc51eaa4a194269cbcbd3000a3516a0e6f9815e50acc2e0",
+    "extensions/scaling/results/contiguous_summary.json": "6a4c6bf7008e602d889266816ef30e7444165581af7fae0b85f397dec9cf692c",
+    "extensions/scaling/results/source_audit.json": "eb4a8ce24a00092371bafe4c90a26fe9b81dce4b3351f19b364437730b5d6ed0",
+    "extensions/external_validation/results/verification.json": "b6ff81d52016a0b28b281d38a9721e4c087f0bb276457d533812f68fba7c4454",
+    "extensions/external_validation/artifacts/manifest.json": "afdd3ffef367f3972eee39e0491deda3d2f7587f6683f941130794b18f5a7d1a",
+    "extensions/composition_audit/results/regression.json": "269b3dd8ea3b58f340b5d252ded64e7d9f8ad0f971bdc49ffe64f4d6c62e6cf1",
+    "extensions/composition_audit/results/source_feasibility.json": "cd59f2e34e39359a5d50d84334a591185fb221ed91533e55ccb0342f0f29341b"
+  }
+}

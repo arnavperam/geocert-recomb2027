@@ -1,0 +1,14 @@
+{
+  "repository": "https://github.com/arnavperam/geocert-recomb2027",
+  "distribution_version": "1.1.1",
+  "release_type": "Research distribution",
+  "base_archive_sha256": "a14c8986551a4c568a822991981198db88bb583b22b23329a5ed09c844904f03",
+  "document_sha256": {
+    "main.pdf": "5001b5997b55448e58b3864cdd1ad1260a94abb5940bf60a71f3cce3cfdae66d",
+    "main.tex": "247538201a1b9ec406959ad7efeff7612b5467cac9fcbfdea294f570c7ba20cd",
+    "supplement.pdf": "704dfae5bbe308ca925ff94f57d57d39c69f3e98ac5a7c2e46a1a6a306fcc4d1",
+    "supplement.tex": "1a97ebecf3d0da3219daa7202444da8b42143567e76890cad82749176cfc5c16"
+  },
+  "source_identity": "MANIFEST.sha256 and recomb2027-atlas/ARCHIVE_SHA256SUMS.txt",
+  "scientific_scope": "Exact geometry and count solvers, prepared inputs and numerical results."
+}
